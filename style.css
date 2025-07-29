@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+    background: rgb(0, 78, 66);
+    margin: 0;
+    padding: 14.5px;
+    width: 100%;
+    transform: translate(4%);
+    text-align:right;
+}
+
+.hero-image {
+    background-image: url("./images/burnsidelogo.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    transform: translateY(0%)
+
+}
