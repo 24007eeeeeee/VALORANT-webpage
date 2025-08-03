@@ -5,14 +5,24 @@ body {
 
 h1 {
     color: rgb(0, 78, 66);
-    font-size: 32px;
-    margin: 0;
+    font-size: 53px;
+    font-weight: 900;
+    margin-left: -55px;
+    margin-top: -29px;
     width: 100%;
     transform: translate(4%);
     text-align:center;
     padding-top: 120px;
 }
 
+.valorant-main-image {
+    width: 1200px;
+    max-width: 100%;
+    height: auto;
+    margin-left: 385px;
+    margin-top: 50px;
+
+  }
 
 /* Add a black background color to the top navigation */
 .topnav {
