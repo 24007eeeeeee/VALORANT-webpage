@@ -10,19 +10,9 @@ h1 {
     width: 100%;
     transform: translate(4%);
     text-align:center;
+    padding-top: 120px;
 }
 
-.hero-image {
-    background-image: url("./images/phaseguard2.jpg");
-    background-position: right;
-    background-size: cover;      
-    height: 386px;
-    width: 686px;
-
-
-
-
-}
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -39,7 +29,7 @@ h1 {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    float: right;
+    float: left;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
