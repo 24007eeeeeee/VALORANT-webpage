@@ -25,8 +25,21 @@ h1 {
 
   }
 
+  .valstuff {
+    width: 1200px;
+    margin-left: 385px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+  
+  .grid valstuff {
+    width: 100%;
+  }
+
 p {
     margin-left: 400px;
+    margin-bottom: 0; /* Add this line to remove the bottom margin */
 
 }
 
